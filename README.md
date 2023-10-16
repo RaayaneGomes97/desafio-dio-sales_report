@@ -10,7 +10,7 @@ No entanto, assumimos a responsabilidade de dar continuidade ao projeto, persona
 
 Acho importante ressaltar que essas modificações no design foram realizadas de forma voluntária, uma vez que já tínhamos uma versão funcional do design inicial, demonstrando assim nossa criatividade e comprometimento com o projeto. Foi exatamente essa liberdade criativa que eu tentei aplicar.
 
-[Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2UxNWM3YjgtMjc5Mi00MjM2LWJkODAtM2IwM2D4YWUwYmJiIiwidCI6IjNhODM4YzA1LTlkODctNGE5Mi1hNDcyLTI2OTg1NTIwM2NjYyJ9)
+[Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2UxNWM3YjgtMjc5Mi00MjM2LWJkODAtM2IwM2Q4YWUwYmJiIiwidCI6IjNhODM0YzA1LTlkODctNGE5Mi1hNDcyLTI2OTg1NTIwM2NjYyJ9)
 
 **Home:**
 ![Home](https://github.com/RaayaneGomes97/desafio-dio-sales_report/blob/main/home.png)
