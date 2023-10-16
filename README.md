@@ -1,6 +1,12 @@
 # Dashboard em Power BI: Relatório de Vendas
 
-Este projeto é a materialização do nosso empenho durante o Bootcamp da Dio  Ciência de Dados do Santander. No início, nossa tutora nos orientou na criação do dashboard e nos forneceu um design específico como ponto de partida, juntamente com as métricas apropriadas para o relatório. No entanto, assumimos a responsabilidade de dar continuidade ao projeto, personalizando também o design de acordo com nossas preferências individuais, com o objetivo de torná-lo mais original e impactante. É crucial ressaltar que essas modificações no design foram realizadas de forma voluntária, uma vez que já tínhamos uma versão funcional do design inicial, demonstrando assim nossa criatividade e comprometimento com o projeto. Foi exatamente essa liberdade criativa que eu tentei aplicar.
+Este projeto é a materialização do nosso empenho durante o bootcamp "Santander Bootcamp 2023 - Ciência de Dados com Python", em parceria com a DIO, no módulo de "Visualização e Analise de dados com Power Bi".
+
+No início, nossa tutora nos orientou na criação do dashboard e nos forneceu um design específico como ponto de partida, juntamente com as métricas apropriadas para o relatório. 
+
+No entanto, assumimos a responsabilidade de dar continuidade ao projeto, personalizando também o design de acordo com nossas preferências individuais, com o objetivo de torná-lo mais original e impactante. 
+
+Acho importante ressaltar que essas modificações no design foram realizadas de forma voluntária, uma vez que já tínhamos uma versão funcional do design inicial, demonstrando assim nossa criatividade e comprometimento com o projeto. Foi exatamente essa liberdade criativa que eu tentei aplicar.
 
 [Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2UxNWM3YjgtMjc5Mi00MjM2LWJkODAtM2IwM2D4YWUwYmJiIiwidCI6IjNhODM4YzA1LTlkODctNGE5Mi1hNDcyLTI2OTg1NTIwM2NjYyJ9)
 
