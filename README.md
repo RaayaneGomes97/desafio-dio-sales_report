@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-RaayaneGomes97-red.svg)]
+
 # Dashboard em Power BI: Relatório de Vendas
 
 Este projeto é a materialização do nosso empenho durante o bootcamp "Santander Bootcamp 2023 - Ciência de Dados com Python", em parceria com a DIO, no módulo de "Visualização e Analise de dados com Power Bi".
