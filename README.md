@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-RaayaneGomes97-red.svg)]
+![author](https://img.shields.io/badge/author-RaayaneGomes97-red.svg)
 
 # Dashboard em Power BI: Relatório de Vendas
 
